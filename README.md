@@ -37,3 +37,45 @@ Em construção.🚀..
 - [x] Cadastro de cliente
 - [ ] Cadastro de produtos
 
+
+## Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com) e [Dotnet 6](https://dotnet.microsoft.com/pt-br/download/dotnet/6.0). 
+
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+### 🔨 Rodando o Back End (servidor)
+
+```bash
+# Clone este repositório
+$ git clone <path do repositório >
+
+# Acesse a pasta raiz do projeto no terminal/cmd
+$ cd meu-projeto
+
+# Instale as dependências
+$ dotnet restore
+
+# Execute a aplicação de api em modo de desenvolvimento
+$ dotnet run --project src/adapter/provider/meu-projeto-api/meu-projeto-api.csproj
+
+# O servidor inciará na porta:8080 - acesse <http://localhost:8080>
+```
+
+### 🛠 Tecnologias
+As seguintes ferramentas foram usadas na construção do projeto:
+- [Dotnet](https://dotnet.microsoft.com/pt-br/download/dotnet/6.0)
+- [C#](https://dotnet.microsoft.com/pt-br/download/dotnet/6.0)
+- [RabbitMQ](https://www.rabbitmq.com/)
+- [SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
+### Referencias Utilizadas
+
+- (https://shields.io/)
+- (https://github.com/Naereen/badges)
+- (https://simpleicons.org/?q=ghost)
+- (https://github.com/ekalinin/github-markdown-toc#table-of-contents)
+- (Emoji Markdown)
+
+
+
