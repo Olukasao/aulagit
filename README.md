@@ -1,4 +1,8 @@
-![logo](./img/logo2.png)
+<!-- ![logo](./img/logo2.png) -->
+
+<p align="center">
+ <img src="./img/logo2.png">
+</p>
 
 <h1 align="center">
 Padrão de Documentação README
