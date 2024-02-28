@@ -1,4 +1,4 @@
-![logo](./img/logo.png)
+![logo](./img/logo2.png)
 
 <h1 align="center">
 Padrão de Documentação README
