@@ -107,12 +107,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
 ### 📓 Referencias Utilizadas
 
-- (https://shields.io/)
-- (https://github.com/Naereen/badges)
-- (https://simpleicons.org/?q=ghost)
-- (https://github.com/ekalinin/github-markdown-toc#table-of-contents)
-- (Emoji Markdown)
+- [Criação de Badges](https://shields.io/)
+- [Badges](https://github.com/Naereen/badges)
+- [Icons](https://simpleicons.org/?q=ghost)
+- [TOC](https://github.com/ekalinin/github-markdown-toc#table-of-contents)
+- [Emojis](https://gist.github.com/rxaviers/7360908)
 
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 
 [![git](https://badgen.net/badge/icon/git?icon=git&label)](https://git-scm.com)
+
+![anchieta](./img/anchieta.png)
